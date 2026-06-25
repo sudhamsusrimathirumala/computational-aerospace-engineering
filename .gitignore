@@ -1,0 +1,12 @@
+.gradle/
+build/
+out/
+*.class
+
+.idea/
+.vscode/
+*.iml
+
+src/playground/
+simulations/
+results/
